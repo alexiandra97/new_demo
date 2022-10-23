@@ -1,5 +1,5 @@
 # new_demo
 
-Udemy practice for interview:
+Udemy ZeroToMastery practice for interview:
 
-1. Bio g notation
+1. Bio O notation
