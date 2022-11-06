@@ -14,6 +14,7 @@ class Pet:
 class Cat(Pet):
 	def __init__(self, name, age, color):
 		super().__init__(name, age)
+		# Pet.__init__(self, name, age)
 		self.color = color
 # but when we need to add more features (ex. color) just in child class we make __init__ method in child class and add just new features,
 # old we get : super().__init__() that takes things from parent's class
