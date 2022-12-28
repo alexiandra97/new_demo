@@ -61,4 +61,4 @@ tree.insert(15)
 print(tree)
 
 tree.lookup(20)
-tree.print_tree()
+tree.print_tree(n)
